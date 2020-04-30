@@ -1,0 +1,6 @@
+link Project :
+https://github.com/jody-krido/tugas_praktikum_mobile/blob/master/LBSF.zip
+https://github.com/jody-krido/tugas_praktikum_mobile
+
+link File APK :
+https://appetize.io/app/07m3buyhw4twpt73a7b39y7abc?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
